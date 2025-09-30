@@ -1,4 +1,4 @@
-# tellos-connect-four
+# Tellos Connect Four Exam
 
 ## React + TypeScript + Vite
 
